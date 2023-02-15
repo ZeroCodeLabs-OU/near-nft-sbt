@@ -147,22 +147,26 @@ impl Contract {
 
 
 
-    #[payable]
-    pub fn add_whitelist_address(&mut self, account_ids: AccountId)  {
+     #[payable]
+    pub fn add_whitelist_address(&mut self, account_ids:Vec<AccountId>)  {
         assert_one_yocto();
         assert_eq!(
             env::predecessor_account_id(),
             self.owner_id.clone(),
             " UNAUTHORIZED - ONLY OWNER "
         );
-                assert!(
-                    env::is_valid_account_id(account_ids.as_bytes()),
-                    "Account ID is invalid"
-                );
 
-                self.whitelist.insert(&account_ids);   
-             
+
+        for i in account_ids.iter(){
+            assert!(
+                env::is_valid_account_id(i.as_bytes()),
+                "Account ID is invalid"
+            );
+            self.whitelist.insert(&i);   
         }
+            
+        }
+
 
 
         #[payable]  
