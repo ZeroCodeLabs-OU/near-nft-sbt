@@ -169,19 +169,23 @@ impl Contract {
 
 
 
-        #[payable]  
-        pub fn remove_white_list(&mut self, account_id: AccountId) -> bool {
+         #[payable]  
+        pub fn remove_white_list(&mut self, account_ids:Vec<AccountId>)  {
             assert_one_yocto();
             assert_eq!(
                 env::predecessor_account_id(),
                 self.owner_id.clone(),
                 " UNAUTHORIZED - ONLY OWNER "
             );
-            assert!(
-                env::is_valid_account_id(account_id.as_bytes()),
-                "The given account ID is invalid"
-            );
-            self.whitelist.remove(&account_id)
+
+            for i in account_ids.iter(){
+                assert!(
+                    env::is_valid_account_id(i.as_bytes()),
+                    "Account ID is invalid"
+                );
+                self.whitelist.remove(&i);   
+            }
+
         }
 
      /// Returns `true` if the given  account ID is whitelisted.
