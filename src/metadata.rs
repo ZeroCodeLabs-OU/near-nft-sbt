@@ -92,7 +92,6 @@ pub struct BuyNftjson {
 #[serde(crate = "near_sdk::serde")]
 pub struct BurnNFTJson {
     pub deleted_token: TokenId,
-    pub art_id:String,
     pub status: String 
     
 }
