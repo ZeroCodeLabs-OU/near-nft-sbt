@@ -1,0 +1,13 @@
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/signature-7aca959678132a38.rmeta: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md
+
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/libsignature-7aca959678132a38.rlib: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md
+
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/signature-7aca959678132a38.d: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md
+
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md:

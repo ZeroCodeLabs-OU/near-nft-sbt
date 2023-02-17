@@ -1,0 +1,12 @@
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/secp256k1-e64f5e3281bd8d0f.rmeta: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/macros.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/constants.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ecdh.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ffi.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/key.rs
+
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/libsecp256k1-e64f5e3281bd8d0f.rlib: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/macros.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/constants.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ecdh.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ffi.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/key.rs
+
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/secp256k1-e64f5e3281bd8d0f.d: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/macros.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/constants.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ecdh.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ffi.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/key.rs
+
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/lib.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/macros.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/constants.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ecdh.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/ffi.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-secp256k1-0.7.0/src/key.rs:

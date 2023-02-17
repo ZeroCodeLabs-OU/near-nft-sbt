@@ -1,0 +1,10 @@
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/libparity_scale_codec_derive-157dfeb0d2bc946a.so: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/parity_scale_codec_derive-157dfeb0d2bc946a.d: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs:

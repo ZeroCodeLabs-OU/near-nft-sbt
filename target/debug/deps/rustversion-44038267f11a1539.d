@@ -1,0 +1,20 @@
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/librustversion-44038267f11a1539.so: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/attr.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/bound.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/constfn.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/date.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/error.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expand.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expr.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/iter.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/release.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/time.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/token.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/version.rs /mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/build/rustversion-47c82db299e6c849/out/version.expr
+
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/deps/rustversion-44038267f11a1539.d: /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/lib.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/attr.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/bound.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/constfn.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/date.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/error.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expand.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expr.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/iter.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/release.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/time.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/token.rs /home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/version.rs /mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/build/rustversion-47c82db299e6c849/out/version.expr
+
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/lib.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/attr.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/bound.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/constfn.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/date.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/error.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expand.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expr.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/iter.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/release.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/time.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/token.rs:
+/home/zc/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/version.rs:
+/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/build/rustversion-47c82db299e6c849/out/version.expr:
+
+# env-dep:OUT_DIR=/mnt/c/Users/Jay/Desktop/Personal/near-nft-sbt/target/debug/build/rustversion-47c82db299e6c849/out

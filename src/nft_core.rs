@@ -6,14 +6,14 @@ const GAS_FOR_NFT_ON_TRANSFER: Gas = Gas(25_000_000_000_000);
 
 pub trait NonFungibleTokenCore {
     //transfers an NFT to a receiver ID
-    fn nft_transfer(
-        &mut self,
-        receiver_id: AccountId,
-        token_id: TokenId,
-        //we introduce an approval ID so that people with that approval ID can transfer the token
-        approval_id: Option<u64>,
-        memo: Option<String>,
-    );
+    // fn nft_transfer(
+    //     &mut self,
+    //     receiver_id: AccountId,
+    //     token_id: TokenId,
+    //     //we introduce an approval ID so that people with that approval ID can transfer the token
+    //     approval_id: Option<u64>,
+    //     memo: Option<String>,
+    // );
 
     //transfers an NFT to a receiver and calls a function on the receiver ID's contract
     /// Returns `true` if the token was transferred from the sender's account.
@@ -69,35 +69,35 @@ trait NonFungibleTokenResolver {
 impl NonFungibleTokenCore for Contract {
 
     //implementation of the nft_transfer method. This transfers the NFT from the current owner to the receiver. 
-    #[payable]
-    fn nft_transfer(
-        &mut self,
-        receiver_id: AccountId,
-        token_id: TokenId,
-        //we introduce an approval ID so that people with that approval ID can transfer the token
-        approval_id: Option<u64>,
-        memo: Option<String>,
-    ) {
-        //assert that the user attached exactly 1 yoctoNEAR. This is for security and so that the user will be redirected to the NEAR wallet. 
-        assert_one_yocto();
-        //get the sender to transfer the token from the sender to the receiver
-        let sender_id = env::predecessor_account_id();
+    // #[payable]
+    // fn nft_transfer(
+    //     &mut self,
+    //     receiver_id: AccountId,
+    //     token_id: TokenId,
+    //     //we introduce an approval ID so that people with that approval ID can transfer the token
+    //     approval_id: Option<u64>,
+    //     memo: Option<String>,
+    // ) {
+    //     //assert that the user attached exactly 1 yoctoNEAR. This is for security and so that the user will be redirected to the NEAR wallet. 
+    //     assert_one_yocto();
+    //     //get the sender to transfer the token from the sender to the receiver
+    //     let sender_id = env::predecessor_account_id();
 
-        //call the internal transfer method and get back the previous token so we can refund the approved account IDs
-        let previous_token = self.internal_transfer(
-            &sender_id,
-            &receiver_id,
-            &token_id,
-            approval_id,
-            memo,
-        );
+    //     //call the internal transfer method and get back the previous token so we can refund the approved account IDs
+    //     let previous_token = self.internal_transfer(
+    //         &sender_id,
+    //         &receiver_id,
+    //         &token_id,
+    //         approval_id,
+    //         memo,
+    //     );
 
-        //we refund the owner for releasing the storage used up by the approved account IDs
-        refund_approved_account_ids(
-            previous_token.owner_id.clone(),
-            &previous_token.approved_account_ids,
-        );
-    }
+    //     //we refund the owner for releasing the storage used up by the approved account IDs
+    //     refund_approved_account_ids(
+    //         previous_token.owner_id.clone(),
+    //         &previous_token.approved_account_ids,
+    //     );
+    // }
 
     //implementation of the transfer call method. This will transfer the NFT and call a method on the receiver_id contract
     #[payable]
